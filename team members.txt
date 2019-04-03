@@ -1,0 +1,4 @@
+EAGLES TEAM
+NAME			COURSE	REG.NO		EMAIL				YEAR OF STUDY
+Rodgers Wambua 		IT	SIT/0012/2015   rodgerswambua254@gmail.com      4
+George  Omondi 		IT	SIT/0038/2015   ojungageorge4@gmail.com         4
